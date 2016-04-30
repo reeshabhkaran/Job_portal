@@ -1,0 +1,32 @@
+D:\reeshabh\Job Portal\Job Portal\bin\Debug\Job Portal.exe
+D:\reeshabh\Job Portal\Job Portal\bin\Debug\Job Portal.pdb
+D:\reeshabh\Job Portal\Job Portal\obj\x86\Debug\Job_Portal.Form1.resources
+D:\reeshabh\Job Portal\Job Portal\obj\x86\Debug\Job_Portal.Properties.Resources.resources
+D:\reeshabh\Job Portal\Job Portal\obj\x86\Debug\Job Portal.csproj.GenerateResource.Cache
+D:\reeshabh\Job Portal\Job Portal\obj\x86\Debug\Job Portal.exe
+D:\reeshabh\Job Portal\Job Portal\obj\x86\Debug\Job Portal.pdb
+D:\reeshabh\Job Portal\Job Portal\obj\x86\Debug\Job_Portal.Form2.resources
+D:\reeshabh\Job Portal\Job Portal\obj\x86\Debug\Job_Portal.Form3.resources
+D:\reeshabh\Job Portal\Job Portal\obj\x86\Debug\Job_Portal.Form4.resources
+D:\reeshabh\Job Portal\Job Portal\obj\x86\Debug\Job_Portal.Form5.resources
+F:\study\IT 4th sem\DBS\project\Job Portal\Job Portal\obj\x86\Debug\Job Portal.exe
+F:\study\IT 4th sem\DBS\project\Job Portal\Job Portal\obj\x86\Debug\Job Portal.pdb
+F:\study\IT 4th sem\DBS\project\Job Portal\Job Portal\bin\Debug\Job Portal.exe
+F:\study\IT 4th sem\DBS\project\Job Portal\Job Portal\bin\Debug\Job Portal.pdb
+F:\study\IT 4th sem\DBS\project\Job Portal\Job Portal\obj\x86\Debug\Job_Portal.Form1.resources
+F:\study\IT 4th sem\DBS\project\Job Portal\Job Portal\obj\x86\Debug\Job_Portal.Form2.resources
+F:\study\IT 4th sem\DBS\project\Job Portal\Job Portal\obj\x86\Debug\Job_Portal.Form3.resources
+F:\study\IT 4th sem\DBS\project\Job Portal\Job Portal\obj\x86\Debug\Job_Portal.Form4.resources
+F:\study\IT 4th sem\DBS\project\Job Portal\Job Portal\obj\x86\Debug\Job_Portal.Form5.resources
+F:\study\IT 4th sem\DBS\project\Job Portal\Job Portal\obj\x86\Debug\Job_Portal.Form6.resources
+F:\study\IT 4th sem\DBS\project\Job Portal\Job Portal\obj\x86\Debug\Job_Portal.Properties.Resources.resources
+F:\study\IT 4th sem\DBS\project\Job Portal\Job Portal\obj\x86\Debug\Job Portal.csproj.GenerateResource.Cache
+F:\study\IT 4th sem\DBS\project\Job Portal\Job Portal\obj\x86\Debug\Job_Portal.Form7.resources
+F:\study\IT 4th sem\DBS\project\Job Portal\Job Portal\obj\x86\Debug\Job_Portal.Form8.resources
+F:\study\IT 4th sem\DBS\project\Job Portal\Job Portal\obj\x86\Debug\Job_Portal.Form10.resources
+F:\study\IT 4th sem\DBS\project\Job Portal\Job Portal\obj\x86\Debug\Job_Portal.Form11.resources
+F:\study\IT 4th sem\DBS\project\Job Portal\Job Portal\obj\x86\Debug\Job_Portal.Form9.resources
+F:\study\IT 4th sem\DBS\project\Job Portal\Job Portal\obj\x86\Debug\Job Portal.csprojResolveAssemblyReference.cache
+F:\study\IT 4th sem\DBS\project\Job Portal\Job Portal\bin\Debug\MySql.Data.dll
+F:\study\IT 4th sem\DBS\project\Job Portal\Job Portal\obj\x86\Debug\Job_Portal.Form12.resources
+F:\study\IT 4th sem\DBS\project\Job Portal\Job Portal\obj\x86\Debug\Job_Portal.Form13.resources
